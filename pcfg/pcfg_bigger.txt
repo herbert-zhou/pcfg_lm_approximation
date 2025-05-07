@@ -1,0 +1,17 @@
+1.0 S NP VP
+0.5 NP Det N
+0.3 NP Name
+0.2 NP N
+0.7 Det the
+0.3 Det a
+0.1 N dogs
+0.4 N horses
+0.5 N ravens
+1.0 Name Alex
+0.4 VP V NP
+0.6 VP V NP P NP
+0.3 V visited
+0.3 V met
+0.4 V helped
+0.5 P by
+0.5 P near

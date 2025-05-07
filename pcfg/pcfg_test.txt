@@ -1,0 +1,5 @@
+1.0 S NP VP
+1.0 NP dogs
+0.3 VP Adv VP
+0.7 VP run 
+1.0 Adv often

@@ -1,0 +1,5 @@
+1.0 S NP VP
+0.5 NP dogs
+0.5 NP frogs
+0.4 VP jump
+0.6 VP run 

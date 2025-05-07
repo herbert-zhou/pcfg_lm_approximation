@@ -1,0 +1,11 @@
+bias: true
+block_size: 50
+dropout: 0.1
+n_embd: 256
+n_head: 4
+n_layer: 2
+special_tokens:
+  bos: 1
+  eos: 2
+  pad: 0
+vocab_size: 14
