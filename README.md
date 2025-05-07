@@ -1,4 +1,4 @@
-This is the code base for HW 3/4 of LING 384/784, Computational Psycholinguistic, Spring 2025, taught by Tom McCoy.
+This is the code base for HW 4 of LING 384/784, Computational Psycholinguistic, Spring 2025, taught by Tom McCoy.
 
 # Structure of the codebase
 In the main directory:
